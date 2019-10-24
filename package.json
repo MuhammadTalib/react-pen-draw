@@ -1,10 +1,13 @@
 {
   "name": "react-pen-draw",
   "version": "1.0.0",
-  "description": "",
+  "description": ">",
   "author": "MuhammadTalib",
   "license": "MIT",
-  "repository": "MuhammadTalib/react-pen-draw",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadTalib/react-pen-draw.git"
+  },
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
@@ -57,5 +60,25 @@
   },
   "files": [
     "dist"
+  ],
+  "bugs": {
+    "url": "https://github.com/MuhammadTalib/react-pen-draw/issues"
+  },
+  "homepage": "https://github.com/MuhammadTalib/react-pen-draw#readme",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {},
+  "keywords": [
+    "react",
+    "pen",
+    "draw",
+    "paint",
+    "signature",
+    "e-signature",
+    "sketch",
+    "free",
+    "pen",
+    "drawing"
   ]
 }
