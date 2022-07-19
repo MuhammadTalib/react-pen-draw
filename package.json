@@ -1,5 +1,5 @@
 {
-  "name": "react-pen-draw",
+  "name": "@MuhammadTalib/react-pen-draw",
   "version": "1.0.1",
   "description": "react package for pen drawing, painting and sketching",
   "author": "MuhammadTalib",
@@ -7,9 +7,10 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/MuhammadTalib/react-pen-draw.git"
-  },"publishConfig": {
-  "registry":"https://npm.pkg.github.com"
-},
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
