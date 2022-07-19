@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MuhammadTalib/react-pen-draw.git"
+    "url": "git://github.com/MuhammadTalib/react-pen-draw.git"
   },"publishConfig": {
   "registry":"https://npm.pkg.github.com"
 },
