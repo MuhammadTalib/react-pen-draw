@@ -9,7 +9,7 @@
     "url": "git://github.com/MuhammadTalib/react-pen-draw.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/MuhammadTalib"
   },
   "main": "dist/index.js",
   "module": "dist/index.es.js",
