@@ -75,7 +75,7 @@
     "braces": "^3.0.2",
     "js-yaml": "^5.2.0",
     "mem": "^5.1.1",
-    "webpack-dev-server": "^3.9.0"
+    "webpack-dev-server": "^6.1.0"
   },
   "keywords": [
     "react",
